@@ -9,7 +9,7 @@ const artworks = [
   {
     id: 1,
     title: "Minimal",
-    src: "/artworks/minimal.svg",
+    src: "/artworks/sequestered-knowledge.png",
     description: "A minimalist geometric composition",
   },
   {
