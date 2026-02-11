@@ -15,7 +15,7 @@ const artworks = [
   {
     id: 2,
     title: "Geist Iconographic",
-    src: "/artworks/geistconographic.svg",
+    src: "/artworks/sequestered-knowledge-wt.png",
     description: "Modern iconographic design system",
   },
   {
