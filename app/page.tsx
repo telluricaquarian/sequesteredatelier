@@ -15,7 +15,7 @@ const artworks = [
   {
     id: 2,
     title: "Geist Iconographic",
-    src: "/artworks/sequestered-knowledge-wt.png",
+    src: "/artworks/sequestered-knowledge-ursz.png",
     description: "Modern iconographic design system",
   },
   {
@@ -85,7 +85,7 @@ export default function Gallery() {
           <h1 className="text-4xl md:text-5xl font-light tracking-tight text-foreground">
             Sequestered<span className="text-accent">Atelier</span>
           </h1>
-          <p className="mt-2 text-muted-foreground text-sm md:text-base">A curated collection of digital art</p>
+          <p className="mt-2 text-muted-foreground text-sm md:text-base">A curated collection from the thinking spirit</p>
         </motion.div>
       </header>
 
