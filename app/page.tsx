@@ -15,13 +15,13 @@ const artworks = [
   {
     id: 2,
     title: "Geist Iconographic",
-    src: "/artworks/sequestered-knowledge-ursz.png",
+    src: "/artworks/sequestered-knowledge-wt.png",
     description: "Modern iconographic design system",
   },
   {
     id: 3,
     title: "Text Styles",
-    src: "/artworks/text-styles.svg",
+    src: "/artworks/sequestered-knowledge-ursz.png",
     description: "Typography exploration and styles",
   },
   {
