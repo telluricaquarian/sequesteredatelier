@@ -83,7 +83,7 @@ export default function Gallery() {
           className="max-w-7xl mx-auto"
         >
           <h1 className="text-4xl md:text-5xl font-light tracking-tight text-foreground">
-            Art<span className="text-accent">work</span>
+            Sequestered<span className="text-accent">Atelier</span>
           </h1>
           <p className="mt-2 text-muted-foreground text-sm md:text-base">A curated collection of digital art</p>
         </motion.div>
