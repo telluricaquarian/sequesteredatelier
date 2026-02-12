@@ -8,21 +8,21 @@ import Image from "next/image"
 const artworks = [
   {
     id: 1,
-    title: "Minimal",
+    title: "Telluricaquarian",
     src: "/artworks/sequestered-knowledge.png",
-    description: "A minimalist geometric composition",
+    description: "The brand Telluricaquarian — a brand focused on technology, design, and water.",
   },
   {
     id: 2,
-    title: "Geist Iconographic",
+    title: "Electrochemical Medical Device",
     src: "/artworks/sequestered-knowledge-wt.png",
-    description: "Modern iconographic design system",
+    description: "Schematics and EDU material on medical-grade electrolytic devices and electrochemical systems.",
   },
   {
     id: 3,
-    title: "Text Styles",
+    title: "Primordial Originating Substance",
     src: "/artworks/sequestered-knowledge-ursz.png",
-    description: "Typography exploration and styles",
+    description: "Ursubstanz (German). Pronounced: OOR-soob-stahnts. Meaning: \"primordial substance\" / original matter.",
   },
   {
     id: 4,
@@ -85,7 +85,7 @@ export default function Gallery() {
           <h1 className="text-4xl md:text-5xl font-light tracking-tight text-foreground">
             Sequestered<span className="text-accent">Atelier</span>
           </h1>
-          <p className="mt-2 text-muted-foreground text-sm md:text-base">A curated collection from the thinking spirit</p>
+          <p className="mt-2 text-muted-foreground text-sm md:text-base">Resources and educational material offered and presented through graphic design, made, created, and curated by Llewellyn.</p>
         </motion.div>
       </header>
 
