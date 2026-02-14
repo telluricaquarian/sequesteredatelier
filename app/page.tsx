@@ -24,18 +24,6 @@ const artworks = [
     src: "/artworks/sequestered-knowledge-ursz.png",
     description: "Ursubstanz (German). Pronounced: OOR-soob-stahnts. Meaning: \"primordial substance\" / original matter.",
   },
-  {
-    id: 4,
-    title: "Bezier Glyph",
-    src: "/artworks/bezier-glyph.svg",
-    description: "Curved bezier path artwork",
-  },
-  {
-    id: 5,
-    title: "Scattered",
-    src: "/artworks/scattered.svg",
-    description: "Abstract scattered composition",
-  },
 ]
 
 export default function Gallery() {
